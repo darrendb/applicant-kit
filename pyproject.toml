@@ -1,0 +1,12 @@
+[project]
+name = "applicant-kit"
+version = "0.1.0"
+description = "Claude-powered toolkit for turning job postings into structured data, documents and agent workflows."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+]
+
+[build-system]
+requires = ["hatchling >= 1.26"]
+build-backend = "hatchling.build"
